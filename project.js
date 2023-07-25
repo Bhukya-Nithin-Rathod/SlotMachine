@@ -1,9 +1,10 @@
+// These are the steps we are gonna perform for this project
 // 1.Deposit some money
 // 2.Determine the number of lines to bet on
 // 3.Collect a bet amount
 // 4.spin the slot machine
 // 5.Check the result and if user has won
-// 6.give the user the winnings
+// 6.give the user the winnings and update the balance
 // 7.play again option
 
 const prompt = require("prompt-sync")();
